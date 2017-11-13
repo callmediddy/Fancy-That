@@ -16,7 +16,7 @@ The inherent problem with booking flights these days is the amount of choice. Cu
 ## Solution
 My solution to the aforementioned problems with the financial backend of the travel and entertainment industry is to disrupt it with smart contracts based around the emerging blockchain technology. To kickstart this avenue of innovation, I have used a bot built on top of the Toshi framework to utilize Ethereum payments and blockchain transactions to book flights, reserve hotels, explore local cuisine and culture! Moreover, loyalty points now find a special *Fancy That* wallet. The user can browse through the options they have before earning and redeeming their *FT Points* at any given point in time. The process is fast, easy, secure, reliable and robust all because of the decentralized backend that makes this solution truly special. Following are some screenshots from the interactive front-end of *Fancy That*.
 
-![alt text](https://raw.githubusercontent.com/akhand42/Fancy-That/master/screenshots.PNG "Fancy That Screenshots")
+![alt text](https://raw.githubusercontent.com/akhand42/Fancy-That/master/screenshots.png "Fancy That Screenshot")
 
 
 ##
