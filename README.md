@@ -18,5 +18,22 @@ My solution to the aforementioned problems with the financial backend of the tra
 
 ![alt text](https://raw.githubusercontent.com/akhand42/Fancy-That/master/screenshots.png "Fancy That Screenshot")
 
+## Running locally with docker
+You can run the project locally with
 
-##
+```docker-compose up```
+
+If any new depencies are added you can rebuild the project with
+
+```docker-compose build```
+
+To reset the postgres database in your dev environment you can use
+
+```docker-compose down -v```
+
+
+## Youtube Video
+> [Fancy That! - Proffer Blockchain Hackathon](https://youtu.be/x2TKwmuLzxY "Fancy That's Youtube Video")
+
+###### Please note:
+This README was edited shortly after the official submission deadline. No other part of the project was edited or modified in any way whatsoever after the official deadline has passed.
