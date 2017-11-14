@@ -36,4 +36,4 @@ To reset the postgres database in your dev environment you can use
 > [Fancy That! - Proffer Blockchain Hackathon](https://youtu.be/x2TKwmuLzxY "Fancy That's Youtube Video")
 
 ###### Please note:
-This README was edited shortly after the official submission deadline. No other part of the project was edited or modified in any way whatsoever after the official deadline has passed.
+This README was edited shortly after the official submission deadline. No other part of the project was edited or modified in any way whatsoever after the official deadline had passed.
