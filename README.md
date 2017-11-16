@@ -43,7 +43,7 @@ To reset the postgres database in your dev environment you can use
 ## About Me
 My name is Aditya Khandelwal. I am a sophomore at Stanford University. I am currently on a gap year from college — exploring the world, meeting new people, and most of all, diversifying my interests in technology, especially in the field of Artificial Intelligence. You can usually find me behind my laptop screen, coding furiously, or at business meetings, networking with people.
 
-For this hackathon, I decided to participate individually to explore the blockchain development environment. In the last three days, I have gone from having a layman's understanding to a finally learning the behind this technology. It is quite interesting to see how this landscape changes in the future, and how it changes the future itself! 
+For this hackathon, I decided to participate individually to explore the blockchain development environment. In the last three days, I have gone from having a layman's understanding to finally learning the awesome math behind this technology. It is quite interesting to see how this landscape changes in the future, and how it changes the future itself! 
 
 ###### Please note:
 This README was edited shortly after the official submission deadline. No other part of the project was edited or modified in any way whatsoever after the official deadline had passed.
