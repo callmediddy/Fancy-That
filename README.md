@@ -1,4 +1,4 @@
-![Logo](https://raw.githubusercontent.com/akhand42/Fancy-That/master/fancythat.png =250)
+![Logo](https://raw.githubusercontent.com/akhand42/Fancy-That/master/fancythat.png)
 
 # Fancy That! — Proffer Blockchain Hackathon
 > This repository contains the source code for **Fancy That**, a *Toshi Bot*, that simplifies travel bookings and managing loyalty points. It served as my submission to *Proffer's Blockchain Hackathon* conducted from November 10, 2017 to November 13, 2017
