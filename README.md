@@ -2,7 +2,7 @@
 > This repository contains the source code for **Fancy That**, a *Toshi Bot*, that simplifies travel bookings and managing loyalty points. It served as my submission to *Proffer's Blockchain Hackathon* conducted from November 10, 2017 to November 13, 2017
 
 ## Overview
-This is an attempt to leverage an emerging technology in the form of blockchain-fueled Decentralized Apps or DApps to solve the global issue of cumbersome travel bookings and managing loyalty rewards. **Fancy** That is built on top of Toshi, a platform for bots that utilizes *Ethereum* for blockchain transactions.
+This is an attempt to leverage an emerging technology in the form of blockchain-fueled Decentralized Apps or DApps to solve the global issue of cumbersome travel bookings and managing loyalty rewards. **Fancy That** is built on top of Toshi, a platform for bots that utilizes *Ethereum* for blockchain transactions.
 
 ## Problem
 > It is important to understand the problems with existing architecture and tech before thinking about ways to improve it.
@@ -17,6 +17,11 @@ The inherent problem with booking flights these days is the amount of choice. Cu
 My solution to the aforementioned problems with the financial backend of the travel and entertainment industry is to disrupt it with smart contracts based around the emerging blockchain technology. To kickstart this avenue of innovation, I have used a bot built on top of the Toshi framework to utilize Ethereum payments and blockchain transactions to book flights, reserve hotels, explore local cuisine and culture! Moreover, loyalty points now find a special *Fancy That* wallet. The user can browse through the options they have before earning and redeeming their *FT Points* at any given point in time. The process is fast, easy, secure, reliable and robust all because of the decentralized backend that makes this solution truly special. Following are some screenshots from the interactive front-end of *Fancy That*.
 
 ![alt text](https://raw.githubusercontent.com/akhand42/Fancy-That/master/screenshots.png "Fancy That Screenshot")
+
+## Flowchart
+> This is a graphical representation of the upper level mechanics behind the idea behind **Fancy That!**
+
+![alt text](https://raw.githubusercontent.com/akhand42/Fancy-That/master/flowchart.png "Fancy That Flowchart")
 
 ## Running locally with docker
 You can run the project locally with
